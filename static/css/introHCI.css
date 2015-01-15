@@ -14,10 +14,18 @@
 body {
      border: 1px dotted gray;
      padding: 20px;
+     font-family: 'News Cycle', sans-serif;
+}
+
+h1 {
+     font-family: 'News Cycle', sans-serif;
+}
+h4 {
+     font-family: 'News Cycle', sans-serif;
 }
 
 p {
-     font-variant:small-caps;
+    font-family: 'Open Sans Condensed', sans-serif;
 }
 
 .jumbotron {
@@ -38,16 +46,10 @@ p {
 }
 
 .project {
+     font-family: 'News Cycle', sans-serif;
      margin-left: 20px;
-     background-color:#deebf7;
+     background-color:#ccffcc;
      padding: 20px;
      width: 525px;
 }
 
-.project p {
-     font-variant: small-caps;
-}
-
-#project1 {
-     font-variant:small-caps;
-}
